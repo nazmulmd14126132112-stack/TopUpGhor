@@ -6,12 +6,12 @@ var website_name = "TopUp Ghor";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/md_nazmul141";
+var telegram_channel_link = "https://t.me/TopUpGhorOfficial";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/md_nazmul141";
+var telegram_group_link = "https://t.me/TopUpGhorOfficialChatGeoup";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
