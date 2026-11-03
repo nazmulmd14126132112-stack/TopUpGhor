@@ -11,7 +11,7 @@ var telegram_channel_link = "https://t.me/TopUpGhorOfficial";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/TopUpGhorOfficialChatGeoup";
+var telegram_group_link = "https://t.me/+zGF2a3Hn2282MDY1";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
